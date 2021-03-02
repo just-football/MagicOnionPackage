@@ -1,0 +1,18 @@
+{
+  "name": "com.cysharp.magiconion",
+  "version": "4.1.2",
+  "displayName": "MagicOnion",
+  "keywords": [
+    "MagicOnion", "Unity", "Network"
+  ],
+  "author": {
+    "name": "Cysharp",
+    "url": "https://github.com/Cysharp/MagicOnion"
+  },
+  "description": "MagicOnion is a modern RPC framework for .NET platform that provides bi-directional real-time communications such as SignalR and Socket.io and RPC mechanisms such as WCF and web-based APIs.",
+  "unity": "2019.4",
+  "dependencies": {
+    "com.google.grpc": "2.37.0",
+	"com.cysharp.messagepack-csharp": "2.2.85"
+  }
+}
